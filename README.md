@@ -1,5 +1,7 @@
 # ✨ Hi👋, I'm Jeet Chattaraj
 
+<img align="right" width="300" height="200" alt="coding" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
+
 Email Me 👉 ✉️ jeetchattaraj205@gmail.com 😊😊
 
 - 🔭 **I’m currently doing:** B.Tech [Computer Science Engineering]
