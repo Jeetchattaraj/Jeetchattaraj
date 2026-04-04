@@ -1,5 +1,4 @@
-# 💫 Hi 👋, I'm Jeet Chattaraj
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# ✨ Hi👋, I'm Jeet Chattaraj
 
 Email Me 👉 ✉️ jeetchattaraj205@gmail.com 😊😊
 
@@ -9,7 +8,7 @@ Email Me 👉 ✉️ jeetchattaraj205@gmail.com 😊😊
 - ⚡ **Fun fact:** 📌 Let’s connect and grow together.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jeet-chattaraj-7737942b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeetchattaraj205@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeet-chattaraj-7737942b0/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jeetchattaraj205@gmail.com) 
 
 
 <!-- Snake Game Repo View -->
