@@ -12,7 +12,7 @@
 
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/jeet-chattaraj-7737942b0/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jeet-chattaraj-7737942b0/" height="30" width="40" /></a>
+<a href="https://github.com/Jeetchattaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://github.com/Jeetchattaraj" height="30" width="40" /></a>
 <a href="https://www.instagram.com/j_e_e_t_12_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/j_e_e_t_12_/" height="30" width="40" /></a>
 </p>
 
