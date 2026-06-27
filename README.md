@@ -1,4 +1,4 @@
-<img width="5000" height="450" alt="coding" src="https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png" />
+<img width="5000" height="680" alt="coding" src="https://user-images.githubusercontent.com/36594527/117921831-c3d32c80-b334-11eb-8bab-a423ac34272a.png" />
 
 <h1 align="center">✨ Hi👋, I'm Jeet Chattaraj</h1>
 <h3 align="center">Doing Btech CSE</h3>
